@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on a project **DNA as a Data Storage**
 
-- 📫 How to reach me **prachichaturvedu152@gmail.com**
+- 📫 How to reach me **prachichaturvedi152@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
